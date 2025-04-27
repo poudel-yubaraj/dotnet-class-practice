@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|d:\\code8thsem\\dotnet-class-practice\\oop concepts\\dotnet class\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|solutionrelative:dotnet class\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|d:\\code8thsem\\dotnet-class-practice\\oop concepts\\dotnet class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|solutionrelative:dotnet class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|d:\\code8thsem\\dotnet-class-practice\\oop concepts\\dotnet class\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|solutionrelative:dotnet class\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|d:\\code8thsem\\dotnet-class-practice\\oop concepts\\dotnet class\\functionoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87E4F06-3859-473C-AB0F-C9E902677F68}|dotnet class\\dotnet class.csproj|solutionrelative:dotnet class\\functionoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "palindrome.cs",
+              "DocumentMoniker": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\palindrome.cs",
+              "RelativeDocumentMoniker": "dotnet class\\palindrome.cs",
+              "ToolTip": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\palindrome.cs*",
+              "RelativeToolTip": "dotnet class\\palindrome.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:51:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet class\\Program.cs",
+              "ToolTip": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\Program.cs*",
+              "RelativeToolTip": "dotnet class\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:49:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\inheritance.cs",
+              "RelativeDocumentMoniker": "dotnet class\\inheritance.cs",
+              "ToolTip": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\inheritance.cs",
+              "RelativeToolTip": "dotnet class\\inheritance.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvxsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:37:01.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functionOverloading.cs",
+              "DocumentMoniker": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\functionOverloading.cs",
+              "RelativeDocumentMoniker": "dotnet class\\functionOverloading.cs",
+              "ToolTip": "D:\\code8thsem\\dotnet-class-practice\\OOP concepts\\dotnet class\\functionOverloading.cs",
+              "RelativeToolTip": "dotnet class\\functionOverloading.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:09:42.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
